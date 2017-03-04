@@ -50,7 +50,7 @@
         android:background="@color/indigo_material_500"
         android:minHeight="48dp"
         android:padding="10dp"
-        android:text="Today's Messages"
+        android:text="@string/today_messages"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
         android:textColor="@android:color/white" />
 </RelativeLayout>
